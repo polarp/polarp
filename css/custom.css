@@ -1,0 +1,15 @@
+.logo-text{
+    text-align: center;
+    font-family: 'PT Mono', sans-serif;
+    font-size: 3em;
+}
+.bold{
+    font-weight: 600;
+}
+
+.navbar-header{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+
